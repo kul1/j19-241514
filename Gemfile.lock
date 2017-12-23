@@ -23,9 +23,9 @@ GIT
 
 GIT
   remote: https://github.com/kul1/jinda_adminbsb.git
-  revision: 0a9376f61ae720a2f5cadbfefb90b4cb1b9bc023
+  revision: ee8e9e7ac146a7bc756fde944d1e9ea011e2d6e7
   specs:
-    jinda_adminbsb (0.0.1)
+    jinda_adminbsb (0.0.2)
 
 GIT
   remote: https://github.com/mongodb/mongoid.git
@@ -391,6 +391,9 @@ DEPENDENCIES
   tzinfo-data
   uglifier (>= 1.3.0)
   web-console (>= 3.3.0)
+
+RUBY VERSION
+   ruby 2.4.1p111
 
 BUNDLED WITH
    1.16.0
